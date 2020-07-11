@@ -8,7 +8,7 @@
 
 ### Hello! 👋 Welcome to my profile
 
-- 🔭 I’m currently working on mobile development
+- 🔭 I’m currently working on Java developing a financial system and also working as a freelancer using Laravel
 - 🌱 I’m currently learning TypeScript, 💙 React, Angular, Flutter, Spring Rest, Vue JS and Laravel
 - 👯 I currently work with Java programming language using the Spring MVC framework, and develop a Marketplace system with Laravel.
 - 💬 Ask me about them, open an **issue**

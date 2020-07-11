@@ -13,4 +13,4 @@
 - 👯 I currently work with Java programming language using the Spring MVC framework, and develop a Marketplace system with Laravel.
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me: fernandojrsud@hotmail.com
-- ⚡ Passionate about new mobile technologies
+- ⚡ Passionate about new technologies

@@ -15,3 +15,5 @@
 - 📫 How to reach me: fernandojrsud@hotmail.com
 - ⚡ Passionate about new technologies
 - 😎  I’m currently learning English
+
+<a align="center">![Cajlon's github stats](https://github-readme-stats.vercel.app/api?username=FernandoDantas&show_icons=true&theme=red)</a>

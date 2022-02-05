@@ -14,3 +14,4 @@
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me: fernandojrsud@hotmail.com
 - ⚡ Passionate about new technologies
+- 😎  I’m currently learning English
